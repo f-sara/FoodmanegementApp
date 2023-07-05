@@ -1,0 +1,33 @@
+name: work1
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+
+dependencies:
+  go_router:
+  flutter:
+    sdk: flutter
+  flutter_datetime_picker: ^1.5.1
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.13.1
+  firebase_storage: ^11.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  assets:
+    - assets/images/
+  uses-material-design: true

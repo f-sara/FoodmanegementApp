@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "354020395968",
+    "project_id": "kanriapuri-2bf0c",
+    "storage_bucket": "kanriapuri-2bf0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354020395968:android:556f1dd8d9c71f0bd25625",
+        "android_client_info": {
+          "package_name": "com.example.seisaku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9BxagkqZxZMNgI_SA_Po8GzedzgMc04M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354020395968:android:657bc556d9dd4f2bd25625",
+        "android_client_info": {
+          "package_name": "com.example.work1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9BxagkqZxZMNgI_SA_Po8GzedzgMc04M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
